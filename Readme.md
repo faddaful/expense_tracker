@@ -18,16 +18,17 @@ This project implements an expense tracking system using Object-Oriented Program
 - Import UUID and Datetime from python.
 
 ## Installation
-
+To use this project, first intall python then follow these steps;
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/faddaful/expense_tracker
 cd expense-tracker
 ```
+2. run the test.py file to see its implementataion or see the usage instruction below.
 
 ## Usage
 
-Here's a simple example of how to use the expense tracker:
+Here's an example of how to use the expense tracker:
 
 ```python
 from expense_tracking import expense, expense_db
